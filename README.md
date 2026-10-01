@@ -7,12 +7,12 @@ This project showcases my ability to work with relational databases using SQL. I
 
 ##  Project Highlights
 
-* Created and managed a PostgreSQL database (`zomato.db`)
-*  Designed normalized tables for customers, restaurants, orders, deliveries, and riders
-*  Imported structured CSV data into each table
-*  Cleaned and handled null/missing data
-*  Solved **20 real-world business problems** using SQL (e.g., customer churn, top dishes, city rankings)
-*  Built an interactive **Power BI dashboard** to visualize key business insights
+ Created and managed a PostgreSQL database (`zomato.db`)
+  Designed normalized tables for customers, restaurants, orders, deliveries, and riders
+  Imported structured CSV data into each table
+  Cleaned and handled null/missing data
+  Solved **20 real-world business problems** using SQL (e.g., customer churn, top dishes, city rankings)
+  Built an interactive **Power BI dashboard** to visualize key business insights
 
 
 ---
