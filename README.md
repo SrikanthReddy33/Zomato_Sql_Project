@@ -69,7 +69,7 @@ The database includes the following tables:
 * `delivery`: Delivery details of each order
 * `riders`: Rider details and signup info
 
-> You can view the ER Diagram [here](https://github.com/Garima-Khandelwal-1/Dishcover/blob/main/erd.png?raw=true)
+> You can view the ER Diagram [here][https://github.com/SrikanthReddy33/Zomato_Sql_Project/blob/main/ER%20Diagram.png]
 
 ---
 
