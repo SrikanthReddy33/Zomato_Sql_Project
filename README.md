@@ -92,7 +92,7 @@ The database includes the following tables:
 *  **Rider ratings based on delivery time**
 *  **Monthly growth and seasonal demand patterns**
 
-> Want to see all 10 problems and solutions? [View the SQL file](https://github.com/Garima-Khandelwal-1/Dishcover/blob/main/20%20Business%20Problems%20solution.sql)
+> Want to see all 10 problems and solutions? Here:[https://github.com/SrikanthReddy33/Zomato_Sql_Project/blob/main/zomato.sql_queries.sql]
 
 ---
 
